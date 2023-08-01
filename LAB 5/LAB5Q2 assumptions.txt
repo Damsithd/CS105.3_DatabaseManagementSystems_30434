@@ -1,0 +1,5 @@
+1.customers associate with employees
+2.one employee can have many customers
+3.some customers don't have accounts some does
+4.one branch has many employees but a single employee can't work in many branches
+5.one branch have many customers
